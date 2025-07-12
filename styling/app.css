@@ -1,0 +1,9 @@
+/* tailwind is already loaded */
+.App {
+  font-family: sans-serif;
+}
+
+button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.5);
+}
